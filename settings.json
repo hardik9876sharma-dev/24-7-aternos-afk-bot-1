@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "SchoolSMP-74h4.aternos.me",
+    "port": 43302,
     "version": "1.20.1",
     "try-creative": false
   },
